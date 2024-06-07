@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -26,7 +26,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 -Mobile
 ![](./screenshot/mobile.png)
 
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -43,11 +42,9 @@ I'm no expert. I have to read the documentation again and again about HTML and C
 - Flexbox
 - CSS Grid
 
-
 ### What I learned
 
 As a newbie, reading the documentation is very important. I thought watching videos, a little coding exercise here and there is enough. You have to challenge yourself and write more codes when you can.
-
 
 ### Continued development
 
@@ -63,5 +60,4 @@ For now, I just want to improve my html and css, and once I'm comfortamble, I sh
 ## Author
 
 - Website - [Lucsan S. Manayon](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ljmanayon)
-
+- Frontend Mentor - [ljmanayon](https://www.frontendmentor.io/profile/ljmanayon)
